@@ -8,7 +8,7 @@ html, body{
   background-color: blue;
 }
 body{
-  background: url('../imagens/fundo\ pedra.jpg') no-repeat top center;
+  background: url('../imagens/3d.jpg') no-repeat top center;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -26,4 +26,13 @@ section#telefone{
   height: 627px;
   width: 310px;
    background: url('../imagens/frame-iphone.png')no-repeat;
+}
+
+iframe#tela{
+  position: relative;
+top: 80px;
+left: 22px;
+width: 269px;
+height: 471px;
+
 }
